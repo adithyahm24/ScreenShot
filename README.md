@@ -1,3 +1,3 @@
 # ScreenShot
 ## Dependencies
-### opencv-python
+### pyautogui
