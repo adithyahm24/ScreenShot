@@ -1,0 +1,3 @@
+# ScreenShot
+## Dependencies
+### opencv-python
